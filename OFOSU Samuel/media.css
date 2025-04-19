@@ -1,0 +1,131 @@
+@media screen and (max-width: 450px) {
+
+    header{
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .logo{
+        text-align: center;
+        margin-left: 25rem;
+    }
+
+    nav {
+       margin-left: 7rem;
+    }
+
+    .home h1{
+        text-align: center;
+        margin-left: 13rem;
+    }
+
+    .home p{
+        font-size: 0;
+        display: none;
+    }
+
+    .social-media{
+        margin: 0;
+        margin-left: 13rem;
+    }
+
+
+
+    
+
+
+    .home{
+        display: block;
+        margin: 2rem;
+    }
+
+    .home img{
+        width: 40rem;
+        border-radius: 20rem;
+        margin-top: 5rem;
+        margin-left: 8rem;
+    }
+
+    .home-content p{
+        text-align: center;
+    }
+
+    .social-media{
+        display: flex;
+    }
+
+
+
+    .about{
+        display: block;
+        margin: 0;
+        /* background: none; */
+        /* margin-left: 3rem; */
+        width: 60rem;
+    }
+
+    .about img{
+        margin: 0;
+        margin-left: 12rem;
+        border-radius: 10px;
+    }
+
+    .about-content h2{
+        text-align: center;
+    }
+
+    .about-content h3{
+        text-align: center;
+    }
+
+    .about-content p{
+        margin-left: 3rem;
+        margin-right: 5rem;
+    }
+
+
+
+    .services-container{
+        display: block;
+    }
+
+    .portfolio-box{
+        width: 50rem;
+    }
+
+    .portfolio-box img{
+        width: 100%;
+        height: 80rem;
+        margin-top: 4rem;
+    }
+    .portfolio-container{
+        display: block;
+    }
+
+    .contact-container{
+        display: block;
+    }
+
+    .contact-container{
+        width: 60rem;
+        margin: 0;
+        margin-left: 2rem;
+    }
+
+    footer{
+       
+        background: none;
+        width: 100%;
+       
+    }
+
+    footer p{
+        text-align: center;
+        margin: 0;
+    }
+   
+
+
+
+}
